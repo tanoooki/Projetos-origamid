@@ -1,1 +1,0 @@
-Atividades realizadas pelo curso de HTML e CSS básicos da Origamid.
